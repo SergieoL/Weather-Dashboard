@@ -29,3 +29,7 @@
     border: 1px solid black;
 }
 
+.hero {
+    color: white;
+    background-color: rgb(10, 10, 114);
+}
